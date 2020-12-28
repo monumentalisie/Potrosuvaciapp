@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Potrosuvaci MK</string>
+    <string name="mk_shortcut">MK</string>
+    <string name="about_us_text">"Projekti “Kujdestar i drejtave të konsumatorëve: Përforcimi i kapaciteteve të shoqërive civile dhe mediave, për monitorimin, promovimin dhe avokimin e mbrojtjes së konsumatorëve në Maqedoninë e Veriut” i implementuar nga Instituti për Hulumtime Strategjike dhe Edukim – IHSE, gjatë periudhës Dhjetor 2019 – Dhjetor 2020. Qëllimi i projektit është ti përforcojë kapacitetet e organizatave të shoqërisë civile dhe mediave për të monitoruar dhe raportuar më mirë për procedurat e zgjidhjes së kontesteve të konsumatorëve. Projekti veçanërisht është përqendruar në veprimet e organeve dhe agjencive të ndryshme rregullatore, si dhe organeve të inspektimit, gjatë zgjidhjes së kontesteve së konsumatorëve. Në nivelin lokal, ky projekt do të kontribuojë për një zhvillim më të ekuilibruar socio-ekonomik, duke përmirësuar kështu infrastrukturën lokale të komunave më pak të zhvilluara dhe mbështetur punësime të reja.  Përgatitja e këtij aplikacioni për celularë është përkrahur Agjencia Suedeze për Bashkëpunim Ndërkombëtar Zhvillimor (Sida), përmes projektit “Mbështetje Nordike për progres të Maqedonisë së Veriut”, i implementuar nga Zyra e Kombeve të Bashkuara për Shërbime të Projekteve (UNOPS). Përmbajtja e këtij aplikacioni është përgjegjësi vetëm e Institutit për Hulumtime Strategjike dhe Edukim (IHSE) nga Shkupi dhe në asnjë mënyrë nuk pasqyron pikëpamjet e SIDA-s, Sekretariatit për Çështje Evropiane të Qeverisë së republikës së Maqedonisë së Veriut dhe UNOPS-it. Reproduksioni lejohet vetëm me qëllime jokomerciale dhe vetëm duke iu referuar burimit origjinal.  "</string>
+    <string name="about_us_menu_item">Rreth projektit</string>
+    <string name="korisni_informacii">INFORMACIONE TË DOBISHME</string>
+    <string name="vodic">UDHËZUES</string>
+    <string name="select_option">Zgjidhni opsionin</string>
+    <string name="open_google_maps">Adresa e hapur</string>
+    <string name="open_web_page">Hap faqen në internet</string>
+</resources>

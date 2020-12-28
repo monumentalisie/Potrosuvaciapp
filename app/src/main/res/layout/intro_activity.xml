@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/intro_screen_background"
+    tools:context=".activty.WelcomeActivity">
+
+    <ImageView
+        android:id="@+id/intro_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="120dp"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ikonki_potrosuvaci_12" />
+
+</RelativeLayout>
