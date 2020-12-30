@@ -66,7 +66,7 @@ public class SubtitleItemAdapter extends RecyclerView.Adapter<SubtitleItemAdapte
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
         try {
-            if (position == titlesAndSubtitles.length()) {
+            if (position == titlesAndSubtitles.length() + 1) {
                 String title = holder.mContext.getResources().getString(R.string.vodic);
                 holder.subtitle.setText(title);
 
@@ -82,7 +82,7 @@ public class SubtitleItemAdapter extends RecyclerView.Adapter<SubtitleItemAdapte
 
                     }
                 });
-            } else if (position == titlesAndSubtitles.length() - 1) {
+            } else if (position == titlesAndSubtitles.length()) {
                 String title = holder.mContext.getResources().getString(
                         R.string.korisni_informacii);
                 holder.subtitle.setText(title);
@@ -203,7 +203,7 @@ public class SubtitleItemAdapter extends RecyclerView.Adapter<SubtitleItemAdapte
 
     @Override
     public int getItemCount() {
-        return titlesAndSubtitles.length() + 1;
+        return titlesAndSubtitles.length() + 2;
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
